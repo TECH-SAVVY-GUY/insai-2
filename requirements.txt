@@ -1,0 +1,7 @@
+matplotlib
+mplcyberpunk
+pandas
+prophet>=1.1
+pyTelegramBotAPI
+requests
+plotly
